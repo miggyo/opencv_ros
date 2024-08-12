@@ -1,0 +1,24 @@
+[0.696s] Invoking command in '/home/min/dev_ws/opencv_ros/src/opencv_tutorials': PYTHONPATH=/home/min/dev_ws/opencv_ros/build/opencv_tutorials/prefix_override:/home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tutorials build --build-base /home/min/dev_ws/opencv_ros/build/opencv_tutorials/build install --record /home/min/dev_ws/opencv_ros/build/opencv_tutorials/install.log --single-version-externally-managed install_data
+[0.946s] running egg_info
+[0.946s] writing ../../build/opencv_tutorials/opencv_tutorials.egg-info/PKG-INFO
+[0.947s] writing dependency_links to ../../build/opencv_tutorials/opencv_tutorials.egg-info/dependency_links.txt
+[0.947s] writing entry points to ../../build/opencv_tutorials/opencv_tutorials.egg-info/entry_points.txt
+[0.947s] writing requirements to ../../build/opencv_tutorials/opencv_tutorials.egg-info/requires.txt
+[0.947s] writing top-level names to ../../build/opencv_tutorials/opencv_tutorials.egg-info/top_level.txt
+[0.948s] reading manifest file '../../build/opencv_tutorials/opencv_tutorials.egg-info/SOURCES.txt'
+[0.949s] writing manifest file '../../build/opencv_tutorials/opencv_tutorials.egg-info/SOURCES.txt'
+[0.949s] running build
+[0.949s] running build_py
+[0.950s] running install
+[0.950s] running install_lib
+[0.951s] running install_data
+[0.951s] running install_egg_info
+[0.953s] removing '/home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials-0.0.0-py3.10.egg-info' (and everything under it)
+[0.953s] Copying ../../build/opencv_tutorials/opencv_tutorials.egg-info to /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials-0.0.0-py3.10.egg-info
+[0.953s] running install_scripts
+[0.972s] Installing canny_publisher script to /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/opencv_tutorials
+[0.972s] Installing img_control script to /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/opencv_tutorials
+[0.972s] Installing img_publisher script to /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/opencv_tutorials
+[0.972s] Installing optical_flow script to /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/opencv_tutorials
+[0.972s] writing list of installed files to '/home/min/dev_ws/opencv_ros/build/opencv_tutorials/install.log'
+[0.993s] Invoked command in '/home/min/dev_ws/opencv_ros/src/opencv_tutorials' returned '0': PYTHONPATH=/home/min/dev_ws/opencv_ros/build/opencv_tutorials/prefix_override:/home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tutorials build --build-base /home/min/dev_ws/opencv_ros/build/opencv_tutorials/build install --record /home/min/dev_ws/opencv_ros/build/opencv_tutorials/install.log --single-version-externally-managed install_data

@@ -1,0 +1,31 @@
+[0.629s] Invoking command in '/home/min/dev_ws/opencv_ros/src/opencv_tutorials': PYTHONPATH=/home/min/dev_ws/opencv_ros/build/opencv_tutorials/prefix_override:/home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tutorials build --build-base /home/min/dev_ws/opencv_ros/build/opencv_tutorials/build install --record /home/min/dev_ws/opencv_ros/build/opencv_tutorials/install.log --single-version-externally-managed install_data
+[0.867s] running egg_info
+[0.868s] writing ../../build/opencv_tutorials/opencv_tutorials.egg-info/PKG-INFO
+[0.868s] writing dependency_links to ../../build/opencv_tutorials/opencv_tutorials.egg-info/dependency_links.txt
+[0.868s] writing entry points to ../../build/opencv_tutorials/opencv_tutorials.egg-info/entry_points.txt
+[0.868s] writing requirements to ../../build/opencv_tutorials/opencv_tutorials.egg-info/requires.txt
+[0.868s] writing top-level names to ../../build/opencv_tutorials/opencv_tutorials.egg-info/top_level.txt
+[0.870s] reading manifest file '../../build/opencv_tutorials/opencv_tutorials.egg-info/SOURCES.txt'
+[0.871s] writing manifest file '../../build/opencv_tutorials/opencv_tutorials.egg-info/SOURCES.txt'
+[0.871s] running build
+[0.871s] running build_py
+[0.871s] copying opencv_tutorials/img_publisher.py -> /home/min/dev_ws/opencv_ros/build/opencv_tutorials/build/lib/opencv_tutorials
+[0.872s] copying opencv_tutorials/canny_publisher.py -> /home/min/dev_ws/opencv_ros/build/opencv_tutorials/build/lib/opencv_tutorials
+[0.872s] running install
+[0.872s] running install_lib
+[0.873s] copying /home/min/dev_ws/opencv_ros/build/opencv_tutorials/build/lib/opencv_tutorials/img_publisher.py -> /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials
+[0.873s] copying /home/min/dev_ws/opencv_ros/build/opencv_tutorials/build/lib/opencv_tutorials/canny_publisher.py -> /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials
+[0.873s] byte-compiling /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials/img_publisher.py to img_publisher.cpython-310.pyc
+[0.874s] byte-compiling /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials/canny_publisher.py to canny_publisher.cpython-310.pyc
+[0.874s] running install_data
+[0.874s] copying launch/canny.launch.py -> /home/min/dev_ws/opencv_ros/install/opencv_tutorials/share/opencv_tutorials/launch
+[0.874s] copying launch/camera.launch.py -> /home/min/dev_ws/opencv_ros/install/opencv_tutorials/share/opencv_tutorials/launch
+[0.874s] copying param/size.yaml -> /home/min/dev_ws/opencv_ros/install/opencv_tutorials/share/opencv_tutorials/param
+[0.874s] running install_egg_info
+[0.876s] removing '/home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials-0.0.0-py3.10.egg-info' (and everything under it)
+[0.876s] Copying ../../build/opencv_tutorials/opencv_tutorials.egg-info to /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages/opencv_tutorials-0.0.0-py3.10.egg-info
+[0.877s] running install_scripts
+[0.895s] Installing canny_publisher script to /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/opencv_tutorials
+[0.895s] Installing img_publisher script to /home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/opencv_tutorials
+[0.895s] writing list of installed files to '/home/min/dev_ws/opencv_ros/build/opencv_tutorials/install.log'
+[0.922s] Invoked command in '/home/min/dev_ws/opencv_ros/src/opencv_tutorials' returned '0': PYTHONPATH=/home/min/dev_ws/opencv_ros/build/opencv_tutorials/prefix_override:/home/min/dev_ws/opencv_ros/install/opencv_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_tutorials build --build-base /home/min/dev_ws/opencv_ros/build/opencv_tutorials/build install --record /home/min/dev_ws/opencv_ros/build/opencv_tutorials/install.log --single-version-externally-managed install_data

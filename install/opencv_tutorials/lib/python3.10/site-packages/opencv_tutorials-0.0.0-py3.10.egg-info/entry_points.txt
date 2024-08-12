@@ -1,0 +1,7 @@
+[console_scripts]
+canny_publisher = opencv_tutorials.canny_publisher:main
+cartoon = opencv_tutorials.cartoon:main
+img_control = opencv_tutorials.img_control:main
+img_publisher = opencv_tutorials.img_publisher:main
+optical_flow = opencv_tutorials.optical_flow:main
+
